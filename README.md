@@ -29,7 +29,16 @@
 
 <p align="center"><img src = "assets/project.gif" alt="Project image" height="400"></p>
 <br><br>
-Project Link - https://celinxt.github.io/SPA-Universe/
+<p>How to run the project:</p>
+-  Clone the repository with git clone "https://github.com/celinxt/SPA-Universe.git"
+<br>
+- Run "npm init -y" on command line
+<br>
+- Run "npm install lite-server" on command line
+<br>
+- On package.json change "echo" to "start" and "echo \"Error: no test specified\" && exit 1" to "lite-server"
+<br>
+- Run "npm start" on command line
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
